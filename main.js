@@ -7,6 +7,7 @@ let nuevoprecio = resta(precioheladera, descuento)
 alert(nuevoprecio);
 
 
+
 let respuesta = prompt ("Compra el producto?").toLowerCase();
 if (respuesta === "si") { alert("Gracias por su compra");
 
